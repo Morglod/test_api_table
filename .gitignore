@@ -1,2 +1,4 @@
 /node_modules
 /build_tmp
+/build/depends.bundle.js
+/build/app.js
